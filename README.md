@@ -44,12 +44,3 @@ I'm a Computer Science student at the University of Algarve, focused on building
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
-
-###
-
-<h3 align="left">📊 GitHub Stats</h3>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=paulobarb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulobarb&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages card" />
-</div>
