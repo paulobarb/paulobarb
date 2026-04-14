@@ -1,4 +1,4 @@
-<h1 align="left">Hey there 👋</h1>
+<h1 align="left">Hey there, I'm Paulo 👋</h1>
 
 ###
 
@@ -10,11 +10,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">☁️ Cloud & Platform Engineering Enthusiast</h3>
 
-###
-
-<p align="left">I'm Paulo from Portugal<br><br>- 📚 Currently studying Computer Science at University of Algarve</p>
+<p align="left">
+I'm a Computer Science student at the University of Algarve, focused on building scalable infrastructure and automating the bridge between code and deployment.
+<br><br>
+- Currently specializing in:<br>
+- <b>Infrastructure as Code (Terraform)</b> and <b>Cloud Native</b> architectures.<br>
+- <b>DevSecOps</b> and observability.
+</p>
 
 ###
 
@@ -23,17 +27,29 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="40" alt="terraform logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="aws logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
+###
+
+<h3 align="left">📊 GitHub Stats</h3>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=paulobarb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulobarb&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages card" />
 </div>
