@@ -20,20 +20,14 @@ I build backend services and the cloud infrastructure they run on.
 
 <h3 align="left">🛠 Languages and tools</h3>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" title="FastAPI" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="AWS" title="AWS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/terraform/terraform-original.svg" height="40" alt="Terraform" title="Terraform" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker" title="Docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions" title="GitHub Actions" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
 <p align="left">Looking for internships (summer 2027) in software engineering, DevOps or cloud · Faro, Portugal</p>
