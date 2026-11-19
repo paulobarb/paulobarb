@@ -30,4 +30,4 @@ I build backend services and the cloud infrastructure they run on.
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-<p align="left">Looking for internships (summer 2027) in software engineering, DevOps or cloud · Faro, Portugal</p>
+<p align="left">Looking for opportunities in software engineering, DevOps or cloud</p>
